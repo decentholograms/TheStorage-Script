@@ -1,4 +1,4 @@
-# UK:RP SCRIPT
+# THE STORAGE SCRIPT
 The best script for The Storage, i need your suggest for add, join: https://discord.gg/T57cbGDJZb
 
 # IMAGES
