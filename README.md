@@ -11,7 +11,7 @@ This script was tested with swift and swift but should work on other executors.
 
 # EXECUTE SCRIPT
 
-`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/TheStorage/refs/heads/main/TheStorahe.lua", true))()`
+`loadstring(game:HttpGet("https://raw.githubusercontent.com/decentholograms/TheStorage/refs/heads/main/TheStorage.lua", true))()`
 
 
 
